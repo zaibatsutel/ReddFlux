@@ -1,3 +1,20 @@
+
+# Folders that aren't useful
+
+/Debug
+/ipch/**
+
+**/Debug/
+**/Generated Files/**
+
+
+# Keys
+*.pfx
+
+# Crap
+*.VC.db
+
+
 # Compiled Object files
 *.slo
 *.lo
